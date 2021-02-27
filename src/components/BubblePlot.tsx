@@ -17,7 +17,7 @@ const data = {
     },
     {
       label: "Vue",
-      backgroundColor: "#008080",
+      backgroundColor: "#008081",
       borderColor: "transparent",
       data: [{ x: 10, y: 749, r: 1320000 / 100000 }],
     },
