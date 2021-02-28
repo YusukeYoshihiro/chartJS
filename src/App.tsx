@@ -10,11 +10,11 @@ import RadarPlot from './components/RadarPlot';
 function App() {
   return (
     <div className="App">
-       {/* <LInePlot />
+       <LInePlot />
        <PiePlot />
        <BarPlot />
        <RadarPlot />
-       <BubblePlot /> */}
+       <BubblePlot />
 
        <MaterialUI />
     </div>
